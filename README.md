@@ -1,4 +1,4 @@
-# Tang Nano 9K Arcade PCB
+# Tang Nano 9K Arcade
 ![Model](TN9K-Arcade.jpg)
 
 Tang Nano 9K Arcade PCB for the Tang Nano 9K FPGA Board.  
