@@ -1,0 +1,1 @@
+Original Schematics when not using the Tang Nano 9K Arcade PCB.
