@@ -13,4 +13,3 @@ Build:
 * Open an Arcade project file using GoWin.
 * Compile the arcade project updating filepaths to source files as necessary.
 * Program Tang Nano 9K Board.
-
